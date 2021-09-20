@@ -1,1 +1,4 @@
-This is new demo file.
+
+This is new demo file
+Hello! This is demo of cmd.
+
